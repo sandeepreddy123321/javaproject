@@ -1,0 +1,11 @@
+body
+h1{
+    background-color: #ffffff;
+    background-image: url(images/prabhas.jpeg);
+    background-repeat: no-repeat;
+    background-size: scroll;
+    background-position: center 100px;
+    background-attachment: fixed;
+
+}
+

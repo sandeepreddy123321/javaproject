@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    box-sizing: border-box;
+}
+.form{
+    float: left;
+    box-sizing: border-box;
+}
+.hello{
+
+    text-align: justify;
+    box-sizing: border-box;
+    width:60%;
+    height:auto;
+    margin:200px;
+}
+.hello h1{
+    text-align: center;
+}
+.form img{
+    height:250px;
+    width:auto;
+    margin-left:204px;
+}

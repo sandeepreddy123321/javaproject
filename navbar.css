@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: arial;
+    font-size: 25px;
+    text-decoration: none;
+}
+.navbar{
+    background-color: crimson;
+    font-family: arial;
+    padding:25px;
+    margin-top:10px;
+    padding-left:250px;
+}
+li{
+    display:inline-block;
+    list-style:none;
+}
+li a{
+    color:white;
+    font-size:18px;
+    font-weight: bold;
+    margin-right:25px;
+}
+.list{
+    text-align: center;
+}
+
+
+
+
+

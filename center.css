@@ -1,0 +1,27 @@
+*{
+    text-align:center;
+    color:orange;
+    font-size:50px;
+}
+.box1{
+    height:200px;
+    width:200px;
+    background-color: green;
+    opacity: 1;
+}
+.box2{
+    height:200px;
+    width:200px;
+    background-color:cyan;
+    opacity: 0.4;
+}
+body{
+    background-image: url(images/prabhas.jpeg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+body .img{
+    height:300px;
+    width:300px;
+    margin-left:30px;
+}

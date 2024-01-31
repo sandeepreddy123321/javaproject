@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: arial;
+}
+.contact{
+    box-sizing: border-box;
+    background-color: black;
+    width:400px;
+    height:420px;
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    margin-top:100px;
+    background-color: white;
+    border-radius: 2px;
+}
+input{
+    border-radius: 25px;
+    font-size:20px;
+    padding:10px;
+    width:320px;
+    text-align: center;
+    background-color: white;
+    text-transform: uppercase;
+}
+.contact h1{
+    text-align: center;
+    background-color: white;
+    
+}
+body{
+    background-color: pink;
+}
+.container{
+    text-align: center;
+    font-size: 10px;
+}
